@@ -1,0 +1,5 @@
+resources/
+load_data.ipynb
+*.env
+es/mapping/index.json
+es/plugin/

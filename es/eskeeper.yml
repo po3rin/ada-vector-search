@@ -1,0 +1,3 @@
+index:
+  - name: index
+    mapping: es/mapping/index.json
