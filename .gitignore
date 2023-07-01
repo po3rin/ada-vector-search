@@ -3,3 +3,18 @@ load_data.ipynb
 *.env
 es/mapping/index.json
 es/plugin/
+es/bundle/
+
+#
+# terraform
+#
+#  Local .terraform directories
+**/.terraform/*
+
+# .tfstate files
+*.tfstate
+*.tfstate.*
+
+# tfenv
+tfenv_download.*
+.terraform.lock.hcl

@@ -7,5 +7,5 @@ output "credential_password" {
 }
 
 output "endpoint" {
-  value = ec_deployment.try-vector-search.elasticsearch[0].https_endpoint
+  value = ec_deployment.try-vector-search.elasticsearch.https_endpoint
 }
